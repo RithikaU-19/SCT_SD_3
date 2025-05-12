@@ -23,7 +23,7 @@ A Python program that solves Sudoku puzzles using a backtracking algorithm and p
 python sudoku_solver.py
 
 📸 Screenshot
-![Sudokusolver](<Screenshot 2025-05-12 151055.png>)
+![image](image.png)
 
 🧠 How It Works
 Uses a recursive backtracking algorithm to solve the puzzle
